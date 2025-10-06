@@ -83,10 +83,7 @@ This project is licensed under the MIT License.
 
 **Start chatting and boost your Python skills today!** 💬🔥
 
----
-Sure! Here's an attractive and emoji-enhanced **Contact** section you can add to the bottom of your README:
 
----
 
 ## 📬 Contact
 
