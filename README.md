@@ -93,8 +93,8 @@ Sure! Here's an attractive and emoji-enhanced **Contact** section you can add to
 We’d love to hear from you! Whether you have feedback, feature requests, or just want to say hi 👋 — feel free to reach out:
 
 - 📧 **Email:** `abhishekmallick5049@gmail.com`
-- 🐙 **GitHub:** [@yourusername](https://github.com/abhishekmallick1122)
-- 💼 **LinkedIn:** [Your Name](https://www.linkedin.com/in/abhishek-mallick-836504283/)
+- 🐙 **GitHub:** [@abhishekmallick1122](https://github.com/abhishekmallick1122)
+- 💼 **LinkedIn:** [Abhishek Mallick](https://www.linkedin.com/in/abhishek-mallick-836504283/)
 
 ---
 
